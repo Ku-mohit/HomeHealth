@@ -1,0 +1,15 @@
+ADH(C),Medication Related,Simply,1,36,,,,1. LName1 FName1
+ADH(D),Medication Related,Simply,1,16,,,,1. LName1 FName1
+ADH(H),Medication Related,Simply,4,34,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;
+SUPD,Medication Related,Simply,1,17,,,,1. LName1 FName1
+BCS,Process Measures,Simply,8,16,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;
+CBP,Labs/Vitals,Simply,13,47,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;10. LName10 FName10;
+CDC(EED),Process Measures,Simply,9,23,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;
+CDC(Hb1c),Labs/Vitals,Simply,9,23,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;
+COA(FSA),Tracking Measures,Simply,17,18,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;10. LName10 FName10;
+COA(MR),Tracking Measures,Simply,13,18,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;10. LName10 FName10
+COA(PS),Tracking Measures,Simply,7,18,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;
+COL,Process Measures,Simply,43,49,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;10. LName10 FName10
+SPC,Medication Related,Simply,1,5,,,,1. LName1 FName1;
+TRC,Tracking Measures,Simply,11,15,,,,1. LName1 FName1;2.LName2 FName2;3. LName3 FName3;4. LName4 FName4;5.LName5 FName5;6. LName6 FName6;7. LName7 FName7;8. LName8 FName8;9. LName9 FName9;10. LName10 FName10
+OSW,Tracking Measures,Simply,,,,,,
